@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gin-contrib/cache"
-	"github.com/gin-contrib/cache/persistence"
+	"github.com/PFadel/cache"
+	"github.com/PFadel/cache/persistence"
 	"github.com/gin-gonic/gin"
 )
 
